@@ -1,0 +1,9 @@
+{
+    "app_enabled": true,
+    "min_version": "1.0",
+    "message": "VS Analyzer Active",
+
+    "allowed_users": [
+        "VINOD"
+    ]
+}
