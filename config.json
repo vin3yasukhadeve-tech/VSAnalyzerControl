@@ -1,5 +1,5 @@
 {
-"app_enabled": true,
+"app_enabled": false,
 "min_version": "0.11",
 "message": "VS Analyzer is active.",
 "restrict_users": false,
