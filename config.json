@@ -1,6 +1,9 @@
 {
-  "app_enabled": false,
-  "min_version": "1.0",
-  "message": "VS Analyzer has been temporarily disabled by the owner.",
-  "allowed_users": ["*"]
+"app_enabled": true,
+"min_version": "1.0",
+"message": "VS Analyzer is active.",
+"restrict_users": false,
+"allowed_users": ["*"],
+"check_interval_seconds": 30,
+"fail_closed": true
 }
