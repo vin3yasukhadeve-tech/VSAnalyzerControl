@@ -1,9 +1,6 @@
 {
-    "app_enabled": true,
-    "min_version": "0.11",
-    "message": "VS Analyzer Active",
-
-    "allowed_users": [
-        "VINOD"
-    ]
+  "app_enabled": false,
+  "min_version": "1.0",
+  "message": "VS Analyzer has been temporarily disabled by the owner.",
+  "allowed_users": ["*"]
 }
