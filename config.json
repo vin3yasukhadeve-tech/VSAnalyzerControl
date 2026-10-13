@@ -1,7 +1,7 @@
 {
-"app_enabled": false,
-"min_version": "1",
-"message": "Abhishek kadam.",
+"app_enabled": true,
+"min_version": "0",
+"message": "Licence allotment sucessfull.",
 "restrict_users": false,
 "allowed_users": ["*"],
 "check_interval_seconds": 30,
