@@ -1,7 +1,7 @@
 {
-"app_enabled": false,
+"app_enabled": true,
 "min_version": "0",
-"message": "Aayushi is my Love..",
+"message": "License has been expired.Please connect with Administrator.",
 "restrict_users": false,
 "allowed_users": ["*"],
 "check_interval_seconds": 30,
