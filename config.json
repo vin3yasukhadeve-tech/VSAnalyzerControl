@@ -1,5 +1,5 @@
 {
-"app_enabled": true,
+"app_enabled": false,
 "min_version": "0",
 "message": "License has been expired.Please connect with Administrator.",
 "success_message": "License checking successful.",
