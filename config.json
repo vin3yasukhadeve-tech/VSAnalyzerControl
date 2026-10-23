@@ -2,6 +2,7 @@
 "app_enabled": true,
 "min_version": "0",
 "message": "License has been expired.Please connect with Administrator.",
+"success_message": "License checking successful.",
 "restrict_users": false,
 "allowed_users": ["*"],
 "check_interval_seconds": 30,
